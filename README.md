@@ -25,5 +25,5 @@ This README would normally document whatever steps are necessary to get your app
 
 ### Who do I talk to? ###
 
-* nicolasemaldonado@gmail.com
+* nicolasemaldonado at gmail.com
 * Other community or team contact
